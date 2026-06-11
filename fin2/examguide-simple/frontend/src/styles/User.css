@@ -1,0 +1,58 @@
+/* User Components Styles */
+
+.exam-card {
+  transition: transform 0.3s, box-shadow 0.3s;
+  border: none;
+  border-radius: 8px;
+}
+
+.exam-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.scholarship-card {
+  transition: transform 0.3s, box-shadow 0.3s;
+  border: none;
+  border-radius: 8px;
+}
+
+.scholarship-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.badge {
+  padding: 0.5rem 0.75rem;
+  font-size: 0.85rem;
+}
+
+/* Profile Form */
+.profile-form {
+  background-color: #f8f9fa;
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+.profile-form .form-label {
+  font-weight: 600;
+  color: #495057;
+}
+
+/* Dashboard Stats Cards */
+.stat-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+.stat-card h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.stat-card p {
+  opacity: 0.9;
+}

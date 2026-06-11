@@ -1,0 +1,150 @@
+/* Layout Styles */
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header/Navbar - Modern Light Glassmorphic */
+.navbar {
+  background: rgba(255, 255, 255, 0.9) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05); /* Subtle bottom border shadow */
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border-color);
+  z-index: 1030;
+}
+
+.navbar-brand {
+  font-weight: 800;
+  font-size: 1.5rem;
+  color: var(--primary-color) !important;
+  letter-spacing: -0.025em;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.navbar-brand svg {
+  color: var(--primary-color);
+}
+
+/* Nav links for Light Navbar */
+.navbar .nav-link {
+  color: var(--text-muted) !important;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  padding: 0.5rem 1rem !important;
+  border-radius: var(--border-radius-sm);
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.navbar .nav-link.active {
+  color: var(--primary-color) !important;
+  background: rgba(79, 70, 229, 0.05); /* Very light primary background */
+  text-decoration: none;
+}
+
+.navbar .navbar-toggler {
+  border-color: var(--border-color);
+  color: var(--text-main);
+  padding: 0.5rem;
+  border-radius: var(--border-radius-sm);
+}
+.navbar .navbar-toggler:focus {
+  box-shadow: 0 0 0 2px rgba(79, 70, 229, 0.25);
+}
+
+.navbar .dropdown-toggle,
+.navbar .btn-outline-light {
+  color: var(--text-main) !important;
+}
+
+.navbar .btn {
+  margin-left: 0.5rem;
+}
+
+/* Dropdown overrides for Light Theme */
+.navbar .dropdown-menu {
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-lg);
+  border-radius: var(--border-radius-md);
+  padding: 0.5rem 0;
+  margin-top: 0.5rem;
+}
+
+.navbar .dropdown-item {
+  padding: 0.5rem 1.25rem;
+  font-weight: 500;
+  color: #334155;
+  transition: all 0.2s;
+}
+
+.navbar .dropdown-item:hover {
+  background-color: var(--bg-color-alt);
+  color: var(--primary-color);
+}
+
+/* Slightly increase brand contrast on very small screens */
+@media (max-width: 576px) {
+  .navbar-brand {
+    font-size: 1.25rem;
+  }
+}
+
+/* Footer - Elegant Dark Slate */
+footer {
+  margin-top: auto;
+  background-color: #0f172a !important; /* Slate 900 */
+  color: #94a3b8; /* Slate 400 */
+  border-top: none;
+}
+
+footer .container {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+footer h5 {
+  color: #ffffff;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+}
+
+footer p {
+  line-height: 1.7;
+}
+
+footer a {
+  text-decoration: none;
+  color: #94a3b8 !important;
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+footer a:hover {
+  color: #ffffff !important;
+}
+
+footer hr {
+  border-color: rgba(255, 255, 255, 0.1);
+  margin: 2rem 0;
+}
+
+/* Main Content */
+main {
+  flex: 1;
+  padding: 3rem 0;
+  display: flex;
+  flex-direction: column;
+}

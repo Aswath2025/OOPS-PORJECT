@@ -1,0 +1,58 @@
+Exam Name,Country,Category,Level,Eligibility,Conducting Body,Exam Month,Mode,Application Fee,Accepted By,Official Website,Career Field
+JEE Main,India,Engineering,Undergraduate,12th with PCM,NTA,Jan & Apr,Online,1000 INR,NITs & Engineering Colleges,https://jeemain.nta.nic.in,Engineering & Technology
+JEE Advanced,India,Engineering,Undergraduate,JEE Main Qualified,IITs,June,Online,3200 INR,IITs,https://jeeadv.ac.in,Engineering & Technology
+BITSAT,India,Engineering,Undergraduate,12th with PCM,BITS Pilani,May,Online,3400 INR,BITS Campuses,Check official website,Engineering & Technology
+VITEEE,India,Engineering,Undergraduate,12th with PCM,VIT University,April,Online,1350 INR,VIT Campuses,Check official website,Engineering & Technology
+NEET UG,India,Medical,Undergraduate,12th with PCB,NTA,May,Offline,1700 INR,Medical Colleges,https://neet.nta.nic.in,Healthcare & Medicine
+AIIMS Entrance,India,Medical,Undergraduate,12th with PCB,AIIMS,May,Online,1500 INR,AIIMS Institutes,Check official website,Healthcare & Medicine
+CAT,India,Management,Postgraduate,Bachelor Degree,IIMs,November,Online,2400 INR,IIMs & MBA Colleges,https://iimcat.ac.in,Business & Management
+XAT,India,Management,Postgraduate,Bachelor Degree,XLRI,January,Online,2100 INR,XLRI & MBA Colleges,https://xatonline.in,Business & Management
+MAT,India,Management,Postgraduate,Bachelor Degree,AIMA,Multiple,Online/Offline,1900 INR,MBA Colleges,https://www.aima.in/mat/,Business & Management
+CUET UG,India,General,Undergraduate,12th Pass,NTA,May,Online,800 INR,Central Universities,https://cuet.samarth.ac.in,General Higher Education
+GATE,India,Engineering,Postgraduate,Bachelor Degree,IITs/IISc,February,Online,1800 INR,MTech/PSU Jobs,https://gate.iitk.ac.in,Engineering & Technology
+UPSC CSE,India,Government,All Levels,Graduate Degree,UPSC,June,Offline,100 INR,Civil Services,Check official website,Government & Public Services
+SAT,USA,Undergraduate Admission,Undergraduate,High School Completion,College Board,Multiple,Online,60 USD,US & Global Universities,https://satsuite.collegeboard.org,General Higher Education
+ACT,USA,Undergraduate Admission,Undergraduate,High School Completion,ACT Inc.,Multiple,Online,68 USD,US Universities,https://www.act.org,General Higher Education
+GRE,USA,Graduate Admission,Postgraduate,Bachelor Degree,ETS,Year-round,Online,220 USD,Global Universities,https://www.ets.org/gre,General Higher Education
+GMAT,USA,Management,Postgraduate,Bachelor Degree,GMAC,Year-round,Online,275 USD,Business Schools,https://www.mba.com/exams/gmat-exam,Business & Management
+TOEFL,International,English Proficiency,All Levels,,ETS,Year-round,Online,205 USD,Global Universities,https://www.ets.org/toefl,Language & Communication
+IELTS,International,English Proficiency,All Levels,,British Council/IDP,Year-round,Online/Offline,17000 INR,UK/Canada/Australia Universities,https://www.ielts.org,Language & Communication
+PTE Academic,International,English Proficiency,All Levels,,Pearson,Year-round,Online,180 USD,Global Universities,Check official website,Language & Communication
+MCAT,USA,Medical,Postgraduate,Bachelor Degree,AAMC,Multiple,Online,330 USD,Medical Schools USA,Check official website,Healthcare & Medicine
+LSAT,USA,Law,Postgraduate,Bachelor Degree,LSAC,Multiple,Online,222 USD,Law Schools,Check official website,Law & Legal Studies
+NDA,India,Defense,Undergraduate,12th Pass,UPSC,April & September,Offline,100 INR,National Defence Academy,https://upsconline.nic.in,Defense & Civil Services
+CLAT,India,Law,Undergraduate,12th Pass,Consortium of NLUs,December,Offline,4000 INR,National Law Universities,https://consortiumofnlus.ac.in,Law & Legal Studies
+NIFT Entrance Exam,India,Design,Undergraduate,12th Pass,NIFT,February,Online/Offline,3000 INR,NIFT Institutes,https://nift.ac.in,Design & Creative Arts
+NID DAT,India,Design,Undergraduate,12th Pass,NID,January,Offline,3000 INR,National Institute of Design,https://www.nid.edu,Design & Creative Arts
+UGC NET,India,Teaching/Research,Postgraduate,Master’s Degree,NTA,June & December,Online,1150 INR,Universities & Colleges,https://ugcnet.nta.nic.in,Other
+SSC CHSL,India,Government,Undergraduate,12th Pass,SSC,Multiple,Online,100 INR,Central Government Jobs,https://ssc.nic.in,Government & Public Services
+IBPS PO,India,Banking,Postgraduate,Graduate Degree,IBPS,October,Online,850 INR,Public Sector Banks,https://www.ibps.in,Finance & Accounting
+RRB NTPC,India,Railway,Undergraduate,Graduate Degree,RRB,Multiple,Online,500 INR,Indian Railways,https://www.rrbsecunderabad.nic.in,Other
+AP Exams,USA,Undergraduate Admission,Undergraduate,High School Students,College Board,May,Offline,98 USD,US Colleges,https://apcentral.collegeboard.org,General Higher Education
+PSAT,USA,Undergraduate Admission,Undergraduate,High School Students,College Board,October,Offline,18 USD,Scholarship Qualification,https://satsuite.collegeboard.org/psat-nmsqt,General Higher Education
+USMLE,USA,Medical Licensing,Postgraduate,Medical Degree,FSMB/NBME,Year-round,Online,645 USD,Medical Practice USA,https://www.usmle.org,Healthcare & Medicine
+PLAB,UK,Medical Licensing,Postgraduate,Medical Degree,GMC UK,Multiple,Online/Offline,255 GBP,Medical Practice UK,https://www.gmc-uk.org/registration-and-licensing/join-the-register/plab,Healthcare & Medicine
+LNAT,UK,Law,Undergraduate,12th Pass,Pearson VUE,Year-round,Online,75 GBP,UK Law Universities,https://lnat.ac.uk,Law & Legal Studies
+GAMSAT,Australia,Medical,Postgraduate,Bachelor Degree,ACER,March & September,Offline,518 AUD,Medical Schools Australia,https://gamsat.acer.org,Healthcare & Medicine
+TEF Canada,Canada,Language Proficiency,All Levels,,CCIP,Year-round,Online,440 CAD,Canadian Immigration/Universities,https://www.francais.cci.ca,Language & Communication
+JLPT,Japan,Language Proficiency,All Levels,,Japan Foundation,July & December,Offline,6500 JPY,Japanese Universities,https://www.jlpt.jp,Language & Communication
+KCET,India,Engineering,Undergraduate,12th PCM,KEA,May,Offline,500 INR,Karnataka Colleges,https://cetonline.karnataka.gov.in/kea/,Engineering & Technology
+WBJEE,India,Engineering,Undergraduate,12th PCM,WBJEEB,April,Offline,500 INR,West Bengal Colleges,https://wbjeeb.nic.in/wbjee/,Engineering & Technology
+COMEDK UGET,India,Engineering,Undergraduate,12th PCM,COMEDK,May,Online,1800 INR,Private Engineering Colleges,https://www.comedk.org/,Engineering & Technology
+NMAT,India,Management,Postgraduate,Bachelor Degree,GMAC,Multiple,Online,2800 INR,NMIMS & MBA Colleges,https://www.mba.com/exams/nmat,Business & Management
+SNAP,India,Management,Postgraduate,Bachelor Degree,Symbiosis,December,Online,2250 INR,Symbiosis Institutes,https://www.snaptest.org/,Business & Management
+AILET,India,Law,Undergraduate,12th Pass,NLU Delhi,December,Offline,3500 INR,NLU Delhi,https://nationallawuniversitydelhi.in/ailet/,Law & Legal Studies
+CUET PG,India,General,Postgraduate,Bachelor Degree,NTA,June,Online,1000 INR,Central Universities,https://pgcuet.samarth.ac.in/,General Higher Education
+OET,International,English Proficiency,All Levels,,OET Centre,Year-round,Online,587 AUD,Healthcare Institutions,https://www.occupationalenglishtest.org/,Language & Communication
+Duolingo English Test,International,English Proficiency,All Levels,,Duolingo,Year-round,Online,65 USD,Global Universities,https://englishtest.duolingo.com/,Language & Communication
+DAT,USA,Dental,Postgraduate,Bachelor Degree,ADA,Year-round,Online,540 USD,Dental Schools,https://www.ada.org/education/testing/dat,Other
+PCAT,USA,Pharmacy,Postgraduate,Bachelor Degree,Pearson,Multiple,Online,210 USD,Pharmacy Schools,https://www.pearsonassessments.com/pcat.html,Other
+BMAT,UK,Medical,Undergraduate,12th Pass,Cambridge Assessment,October,Offline,78 GBP,UK Medical Schools,https://www.admissionstests.cambridgeenglish.org/bmat,Healthcare & Medicine
+UCAT,UK,Medical,Undergraduate,12th Pass,UCAT Consortium,July-September,Online,70 GBP,UK Medical Universities,https://www.ucat.ac.uk,Healthcare & Medicine
+DELF,France,Language Proficiency,All Levels,,French Ministry,Multiple,Offline,100 EUR,French Universities,https://www.france-education-international.fr/en/delf-dalf,Language & Communication
+TestDaF,Germany,Language Proficiency,All Levels,,TestDaF Institute,Multiple,Offline,195 EUR,German Universities,https://www.testdaf.de/,Language & Communication
+CFA,Global,Finance,Professional,Bachelor Degree / Final Year,CFA Institute,,,,,https://www.cfainstitute.org/,Finance & Accounting
+ACCA,Global,Accounting,Professional,12th Pass / Graduate,ACCA,,,,,https://www.accaglobal.com/,Finance & Accounting
+PMP,Global,Project Management,Professional,Work experience required,PMI,,,,,https://www.pmi.org/certifications/project-management-pmp,Business & Management
+CELPIP,Canada,English Proficiency,All Levels,,Paragon Testing,,,,,https://www.celpip.ca/,Language & Communication
+Cambridge C1 Advanced,UK,English Proficiency,Advanced,,Cambridge Assessment,,,,,https://www.cambridgeenglish.org/exams-and-tests/advanced/,Language & Communication
